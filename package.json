@@ -27,5 +27,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JENISHK009/STUDENT_DETAILS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JENISHK009/STUDENT_DETAILS/issues"
+  },
+  "homepage": "https://github.com/JENISHK009/STUDENT_DETAILS#readme",
   "description": ""
 }
